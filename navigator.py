@@ -31,7 +31,7 @@ def visit_profile(
         page.goto(
             profile_url
         )
-        page.wait_for_load_state("networkidle")
+        page.wait_for_load_state("domcontentloaded")
         
         return page
     
@@ -39,3 +39,18 @@ def visit_profile(
         logger.error(f"Profile visiting failed | {e}")
         raise
     
+
+def visit_repositories(page):
+    
+    
+    try:
+        logger.info("Redirecting to Repositories page....")
+        button = page.get_by_role("link" , name="Repositories")
+        button.click()
+        page.wait_for_url("**?tab=repositories")
+        print(page.url)
+        return page
+    
+    except Exception as e:
+        logger.error(f"Redirecting Failed | {e}")
+        raise

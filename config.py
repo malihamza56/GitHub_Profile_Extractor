@@ -12,3 +12,7 @@ BASE_URL = "https://github.com/"
 JSON_PATH = "/data/profile.json"
 
 CSV_PATH = "/data/profile.csv"
+
+
+#Screenshots Path
+SCREENSHOT_PATH = "/screenshots/profile.png"

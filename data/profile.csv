@@ -1,0 +1,8 @@
+id,title,description,visibility,programmingLanguage
+1,GitHub_Profile_Extractor,"A GitHub profile extractor with the help of browser automation using playwright which extracts the profile information and save to JSON , CSV & Excel",Public,Python
+2,Personal-Portfolio,"A professional developer portfolio showcasing my projects, technical skills, GitHub journey, and passion for Python. InFuture, Backend Development, Databases, and Web Technologies will also be a pa…",Public,HTML
+3,api-products-scraper,"A professional API products scraper using modern technologies of pyhton and scraping data and converting into readable EXCEL , CSV & JSON outputs",Public,Python
+4,Python_Scraping_Projects,"A collection of real-world Python web scraping projects using Requests, BeautifulSoup, APIs, Selenium, and data export tools.",Public,Python
+5,malihamza56,Not Available,Public,Not Available
+6,Nexus-Journey,"🚀 NEXUS JOURNEY is my long-term engineering journey where I learn, build, and master Python, AI, automation, computer vision, voice recognition, IoT, and smart systems through real-world projects.",Public,Python
+7,Professional-Product-Scraper,"A professional Python web scraping project using Requests, BeautifulSoup, Pandas, and data export to CSV, JSON, and Excel.",Public,HTML
