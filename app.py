@@ -1,3 +1,39 @@
+import os
+import subprocess
+import sys
+
+def ensure_playwright_browser():
+    browser_cache = os.path.expanduser(
+        "~/.cache/ms-playwright"
+    )
+
+    if not os.path.exists(browser_cache):
+        os.makedirs(
+            browser_cache,
+            exist_ok=True
+        )
+
+    result = subprocess.run(
+        [
+            sys.executable,
+            "-m",
+            "playwright",
+            "install",
+            "chromium"
+        ],
+        capture_output=True,
+        text=True
+    )
+
+    if result.returncode != 0:
+        raise RuntimeError(
+            "Playwright Chromium installation failed:\n"
+            + result.stderr
+        )
+
+
+ensure_playwright_browser()
+
 import streamlit as st
 from main import extract_profile
 import os
