@@ -18,7 +18,7 @@ def launch_browser(playwright):
         
         logger.info("Launching Browser...")
     
-        browser = playwright.chromium.launch(headless=False)
+        browser = playwright.chromium.launch(headless=True)
         
         logger.info("Browser Launched Successfully")
         logger.info("Making Context...")
