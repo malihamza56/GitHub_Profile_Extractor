@@ -5,55 +5,111 @@
     "pfp": "https://avatars.githubusercontent.com/u/293418820?v=4",
     "gmail": "not public",
     "social": "private",
-    "followers": "0",
+    "followers": "1",
     "following": "1",
     "repositories": {
-        "total repositories": 7,
+        "total repositories": 15,
         "details": [
             {
                 "id": 1,
-                "title": "GitHub_Profile_Extractor",
-                "description": "A GitHub profile extractor with the help of browser automation using playwright which extracts the profile information and save to JSON , CSV & Excel",
+                "title": "Jobs_Scraper",
+                "description": "A professional Python and Playwright-based job scraping automation tool that searches Rozee.pk using a user-provided job keyword and location, extracts relevant job listings, handles multiple resul\u2026",
                 "visibility": "Public",
-                "programmingLanguage": "Python"
+                "programmingLanguage": "Not Available"
             },
             {
                 "id": 2,
-                "title": "Personal-Portfolio",
-                "description": "A professional developer portfolio showcasing my projects, technical skills, GitHub journey, and passion for Python. InFuture, Backend Development, Databases, and Web Technologies will also be a pa\u2026",
+                "title": "Civora_Bussiness_Website",
+                "description": "Not Available",
                 "visibility": "Public",
-                "programmingLanguage": "HTML"
+                "programmingLanguage": "TypeScript"
             },
             {
                 "id": 3,
-                "title": "api-products-scraper",
-                "description": "A professional API products scraper using modern technologies of pyhton and scraping data and converting into readable EXCEL , CSV & JSON outputs",
+                "title": "Bussiness_Website_Project",
+                "description": "A professional bussiness website project currently focusing on frontend then move to backend ,full stack according to requirements of client",
                 "visibility": "Public",
-                "programmingLanguage": "Python"
+                "programmingLanguage": "TypeScript"
             },
             {
                 "id": 4,
-                "title": "Python_Scraping_Projects",
-                "description": "A collection of real-world Python web scraping projects using Requests, BeautifulSoup, APIs, Selenium, and data export tools.",
-                "visibility": "Public",
-                "programmingLanguage": "Python"
-            },
-            {
-                "id": 5,
                 "title": "malihamza56",
                 "description": "Not Available",
                 "visibility": "Public",
                 "programmingLanguage": "Not Available"
             },
             {
+                "id": 5,
+                "title": "Live_Birthday_Website",
+                "description": "A toturial which shows how to make our website live with github pages",
+                "visibility": "Public",
+                "programmingLanguage": "CSS"
+            },
+            {
                 "id": 6,
+                "title": "Birthday-Gift",
+                "description": "A birthdya website gift for my brother",
+                "visibility": "Public",
+                "programmingLanguage": "CSS"
+            },
+            {
+                "id": 7,
+                "title": "Daraz-Price-Monitor",
+                "description": "A professional Playwright-based price monitoring system for Daraz that tracks product prices and sends email alerts when the price drops below a target value.",
+                "visibility": "Public",
+                "programmingLanguage": "Python"
+            },
+            {
+                "id": 8,
+                "title": "logger",
+                "description": "Not Available",
+                "visibility": "Public",
+                "programmingLanguage": "Not Available"
+            },
+            {
+                "id": 9,
+                "title": "LMS_Scraper",
+                "description": "LMS Scraper is a Python-based web scraping tool that automates the extraction of courses, assignments, announcements, and other academic resources from Learning Management Systems. It helps organiz\u2026",
+                "visibility": "Public",
+                "programmingLanguage": "Python"
+            },
+            {
+                "id": 10,
+                "title": "GitHub_Profile_Extractor",
+                "description": "A GitHub profile extractor with the help of browser automation using playwright which extracts the profile information and save to JSON , CSV & Excel",
+                "visibility": "Public",
+                "programmingLanguage": "Python"
+            },
+            {
+                "id": 11,
+                "title": "Personal-Portfolio",
+                "description": "A professional developer portfolio showcasing my projects, technical skills, GitHub journey, and passion for Python. InFuture, Backend Development, Databases, and Web Technologies will also be a pa\u2026",
+                "visibility": "Public",
+                "programmingLanguage": "HTML"
+            },
+            {
+                "id": 12,
+                "title": "api-products-scraper",
+                "description": "A professional API products scraper using modern technologies of pyhton and scraping data and converting into readable EXCEL , CSV & JSON outputs",
+                "visibility": "Public",
+                "programmingLanguage": "Python"
+            },
+            {
+                "id": 13,
+                "title": "Python_Scraping_Projects",
+                "description": "A collection of real-world Python web scraping projects using Requests, BeautifulSoup, APIs, Selenium, and data export tools.",
+                "visibility": "Public",
+                "programmingLanguage": "Python"
+            },
+            {
+                "id": 14,
                 "title": "Nexus-Journey",
                 "description": "\ud83d\ude80 NEXUS JOURNEY is my long-term engineering journey where I learn, build, and master Python, AI, automation, computer vision, voice recognition, IoT, and smart systems through real-world projects.",
                 "visibility": "Public",
                 "programmingLanguage": "Python"
             },
             {
-                "id": 7,
+                "id": 15,
                 "title": "Professional-Product-Scraper",
                 "description": "A professional Python web scraping project using Requests, BeautifulSoup, Pandas, and data export to CSV, JSON, and Excel.",
                 "visibility": "Public",

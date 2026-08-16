@@ -1,8 +1,16 @@
 id,title,description,visibility,programmingLanguage
-1,GitHub_Profile_Extractor,"A GitHub profile extractor with the help of browser automation using playwright which extracts the profile information and save to JSON , CSV & Excel",Public,Python
-2,Personal-Portfolio,"A professional developer portfolio showcasing my projects, technical skills, GitHub journey, and passion for Python. InFuture, Backend Development, Databases, and Web Technologies will also be a pa…",Public,HTML
-3,api-products-scraper,"A professional API products scraper using modern technologies of pyhton and scraping data and converting into readable EXCEL , CSV & JSON outputs",Public,Python
-4,Python_Scraping_Projects,"A collection of real-world Python web scraping projects using Requests, BeautifulSoup, APIs, Selenium, and data export tools.",Public,Python
-5,malihamza56,Not Available,Public,Not Available
-6,Nexus-Journey,"🚀 NEXUS JOURNEY is my long-term engineering journey where I learn, build, and master Python, AI, automation, computer vision, voice recognition, IoT, and smart systems through real-world projects.",Public,Python
-7,Professional-Product-Scraper,"A professional Python web scraping project using Requests, BeautifulSoup, Pandas, and data export to CSV, JSON, and Excel.",Public,HTML
+1,Jobs_Scraper,"A professional Python and Playwright-based job scraping automation tool that searches Rozee.pk using a user-provided job keyword and location, extracts relevant job listings, handles multiple resul…",Public,Not Available
+2,Civora_Bussiness_Website,Not Available,Public,TypeScript
+3,Bussiness_Website_Project,"A professional bussiness website project currently focusing on frontend then move to backend ,full stack according to requirements of client",Public,TypeScript
+4,malihamza56,Not Available,Public,Not Available
+5,Live_Birthday_Website,A toturial which shows how to make our website live with github pages,Public,CSS
+6,Birthday-Gift,A birthdya website gift for my brother,Public,CSS
+7,Daraz-Price-Monitor,A professional Playwright-based price monitoring system for Daraz that tracks product prices and sends email alerts when the price drops below a target value.,Public,Python
+8,logger,Not Available,Public,Not Available
+9,LMS_Scraper,"LMS Scraper is a Python-based web scraping tool that automates the extraction of courses, assignments, announcements, and other academic resources from Learning Management Systems. It helps organiz…",Public,Python
+10,GitHub_Profile_Extractor,"A GitHub profile extractor with the help of browser automation using playwright which extracts the profile information and save to JSON , CSV & Excel",Public,Python
+11,Personal-Portfolio,"A professional developer portfolio showcasing my projects, technical skills, GitHub journey, and passion for Python. InFuture, Backend Development, Databases, and Web Technologies will also be a pa…",Public,HTML
+12,api-products-scraper,"A professional API products scraper using modern technologies of pyhton and scraping data and converting into readable EXCEL , CSV & JSON outputs",Public,Python
+13,Python_Scraping_Projects,"A collection of real-world Python web scraping projects using Requests, BeautifulSoup, APIs, Selenium, and data export tools.",Public,Python
+14,Nexus-Journey,"🚀 NEXUS JOURNEY is my long-term engineering journey where I learn, build, and master Python, AI, automation, computer vision, voice recognition, IoT, and smart systems through real-world projects.",Public,Python
+15,Professional-Product-Scraper,"A professional Python web scraping project using Requests, BeautifulSoup, Pandas, and data export to CSV, JSON, and Excel.",Public,HTML
