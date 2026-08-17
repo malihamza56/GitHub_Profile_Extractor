@@ -12,80 +12,80 @@
         "details": [
             {
                 "id": 1,
-                "title": "Jobs_Scraper",
-                "description": "A professional Python and Playwright-based job scraping automation tool that searches Rozee.pk using a user-provided job keyword and location, extracts relevant job listings, handles multiple resul\u2026",
-                "visibility": "Public",
-                "programmingLanguage": "Not Available"
-            },
-            {
-                "id": 2,
-                "title": "Civora_Bussiness_Website",
-                "description": "Not Available",
-                "visibility": "Public",
-                "programmingLanguage": "TypeScript"
-            },
-            {
-                "id": 3,
-                "title": "Bussiness_Website_Project",
-                "description": "A professional bussiness website project currently focusing on frontend then move to backend ,full stack according to requirements of client",
-                "visibility": "Public",
-                "programmingLanguage": "TypeScript"
-            },
-            {
-                "id": 4,
-                "title": "malihamza56",
-                "description": "Not Available",
-                "visibility": "Public",
-                "programmingLanguage": "Not Available"
-            },
-            {
-                "id": 5,
-                "title": "Live_Birthday_Website",
-                "description": "A toturial which shows how to make our website live with github pages",
-                "visibility": "Public",
-                "programmingLanguage": "CSS"
-            },
-            {
-                "id": 6,
-                "title": "Birthday-Gift",
-                "description": "A birthdya website gift for my brother",
-                "visibility": "Public",
-                "programmingLanguage": "CSS"
-            },
-            {
-                "id": 7,
                 "title": "Daraz-Price-Monitor",
                 "description": "A professional Playwright-based price monitoring system for Daraz that tracks product prices and sends email alerts when the price drops below a target value.",
                 "visibility": "Public",
                 "programmingLanguage": "Python"
             },
             {
-                "id": 8,
-                "title": "logger",
-                "description": "Not Available",
+                "id": 2,
+                "title": "My_Portfolio",
+                "description": "My portfolio website designed for myself using modern tech stack semantic HTML & CSS.",
                 "visibility": "Public",
-                "programmingLanguage": "Not Available"
+                "programmingLanguage": "HTML"
             },
             {
-                "id": 9,
-                "title": "LMS_Scraper",
-                "description": "LMS Scraper is a Python-based web scraping tool that automates the extraction of courses, assignments, announcements, and other academic resources from Learning Management Systems. It helps organiz\u2026",
-                "visibility": "Public",
-                "programmingLanguage": "Python"
-            },
-            {
-                "id": 10,
+                "id": 3,
                 "title": "GitHub_Profile_Extractor",
                 "description": "A GitHub profile extractor with the help of browser automation using playwright which extracts the profile information and save to JSON , CSV & Excel",
                 "visibility": "Public",
                 "programmingLanguage": "Python"
             },
             {
-                "id": 11,
-                "title": "Personal-Portfolio",
-                "description": "A professional developer portfolio showcasing my projects, technical skills, GitHub journey, and passion for Python. InFuture, Backend Development, Databases, and Web Technologies will also be a pa\u2026",
+                "id": 4,
+                "title": "Jobs_Scraper",
+                "description": "A professional Python and Playwright-based job scraping automation tool that searches Rozee.pk using a user-provided job keyword and location, extracts relevant job listings, handles multiple resul\u2026",
                 "visibility": "Public",
-                "programmingLanguage": "HTML"
+                "programmingLanguage": "Not Available"
+            },
+            {
+                "id": 5,
+                "title": "Civora_Bussiness_Website",
+                "description": "Not Available",
+                "visibility": "Public",
+                "programmingLanguage": "TypeScript"
+            },
+            {
+                "id": 6,
+                "title": "Bussiness_Website_Project",
+                "description": "A professional bussiness website project currently focusing on frontend then move to backend ,full stack according to requirements of client",
+                "visibility": "Public",
+                "programmingLanguage": "TypeScript"
+            },
+            {
+                "id": 7,
+                "title": "malihamza56",
+                "description": "Not Available",
+                "visibility": "Public",
+                "programmingLanguage": "Not Available"
+            },
+            {
+                "id": 8,
+                "title": "Live_Birthday_Website",
+                "description": "A toturial which shows how to make our website live with github pages",
+                "visibility": "Public",
+                "programmingLanguage": "CSS"
+            },
+            {
+                "id": 9,
+                "title": "Birthday-Gift",
+                "description": "A birthdya website gift for my brother",
+                "visibility": "Public",
+                "programmingLanguage": "CSS"
+            },
+            {
+                "id": 10,
+                "title": "logger",
+                "description": "Not Available",
+                "visibility": "Public",
+                "programmingLanguage": "Not Available"
+            },
+            {
+                "id": 11,
+                "title": "LMS_Scraper",
+                "description": "LMS Scraper is a Python-based web scraping tool that automates the extraction of courses, assignments, announcements, and other academic resources from Learning Management Systems. It helps organiz\u2026",
+                "visibility": "Public",
+                "programmingLanguage": "Python"
             },
             {
                 "id": 12,
