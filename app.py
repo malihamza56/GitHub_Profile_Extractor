@@ -4,7 +4,19 @@ from main import extract_profile
 import os
 import json
 
+import subprocess
+import sys
 
+def ensure_chromium():
+    try:
+        subprocess.run(
+            [sys.executable, "-m", "playwright", "install", "chromium"],
+            check=True,
+        )
+    except subprocess.CalledProcessError as e:
+        st.error(f"Chromium install failed: {e}")
+
+ensure_chromium()
 
 
 # ==========================================
